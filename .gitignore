@@ -1,0 +1,4 @@
+*.tmp
+*.cf
+bin/
+out/
